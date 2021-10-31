@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.Main{
+    background: linear-gradient(to right, rgb(0, 255, 13), rgb(251, 255, 0));
+    text-align: center;
+}
+.Lol{
+    width: 70%;
+    background-color: #e8ffee;
+    margin: 0 auto;
+}
+.png{
+    justify-content: center;
+    display: flex;
+}
+.social{
+    width: 64px;
+}
+.footer{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 30px;
+}
