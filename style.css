@@ -1,26 +1,25 @@
-*{
+body{
     margin: 0;
-    padding: 0;
-    box-sizing: border-box;
+    background: linear-gradient(to right, #00ff15, #eeff00);
 }
-.Main{
-    background: linear-gradient(to right, rgb(0, 255, 13), rgb(251, 255, 0));
+.Text{
     text-align: center;
 }
-.Lol{
-    width: 70%;
-    background-color: #e8ffee;
-    margin: 0 auto;
+.Pic1{
+    vertical-align: middle;
+    width: 2%;
+    -webkit-filter: drop-shadow(3px 5px 5px #000);
+    filter: drop-shadow(3px 5px 5px #000);
 }
-.png{
-    justify-content: center;
-    display: flex;
+.Pic2{
+    vertical-align: middle;
+    width: 1.5%;  
+    -webkit-filter: drop-shadow(3px 5px 5px #000);
+    filter: drop-shadow(3px 5px 5px #000); 
 }
-.social{
-    width: 64px;
-}
-.footer{
-    display: flex;
-    justify-content: space-evenly;
-    margin-top: 30px;
+.Pic3{
+    vertical-align: middle;
+    width: 1.5%;  
+    -webkit-filter: drop-shadow(2px 3px 3px #000);
+    filter: drop-shadow(2px 3px 3px #000); 
 }
